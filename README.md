@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sidharthkr
 - 👀 I’m interested in Bigdata and Hadoop ecosystem. 
 - 🌱 I’m currently learning Generative AI.
-- 💞️ I’m looking to collaborate on Bigdata 
+- 💞️ I’m looking to collaborate on Bigdata apps. 
 - 📫 How to reach me, ping me at linkedin.com/in/sidharth-k
 - 😄 Pronouns: Shri
 - ⚡ Fun fact: 
