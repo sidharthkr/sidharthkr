@@ -2,7 +2,7 @@
 - 👀 I’m interested in Bigdata and Hadoop ecosystem. 
 - 🌱 I’m currently learning Generative AI.
 - 💞️ I’m looking to collaborate on Bigdata apps. 
-- 📫 How to reach me, ping me at linkedin.com/in/sidharth-k
+- 📫 How to reach me, ping me at [@sidharth-k](https://linkedin.com/in/sidharth-k)
 
 <!---
 sidharthkr/sidharthkr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
