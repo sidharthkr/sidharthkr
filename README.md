@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sidharthkr
-- 👀 I’m interested in Bigdata and Hadoop ecosystem. 
+- 👀 I’m interested in Bigdata solutions. 
 - 📫 How to reach me, ping me at [@sidharth-k](https://linkedin.com/in/sidharth-k)
 
 <!---
