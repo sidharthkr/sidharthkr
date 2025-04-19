@@ -3,7 +3,7 @@
 - a, Hadoop stack, and cloud 
 - 🌱 I’m currently learning AI.
 - 💞️ I’m looking to collaborate on big data and Hadoop projects.
-- 📫 How to reach me , connect with me at linkedin.com/in/sidharth-k
+- 📫 Reach me at linkedin.com/in/sidharth-k
  <!---
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
