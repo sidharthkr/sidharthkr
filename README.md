@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sidharthkr
-- 👀 I’m interested in Big dat,
-- a, Hadoop stack, and cloud 
+- 👀 I’m interested in Big data, Hadoop stack, and cloud 
 - 🌱 I’m currently learning AI.
 - 💞️ I’m looking to collaborate on big data and Hadoop projects.
 - 📫 Reach me at linkedin.com/in/sidharth-k
